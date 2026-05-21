@@ -9,16 +9,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://192.168.31.110:5005/video/"
-    },
-    {
-      "key": "大佬接口",
-      "name": "在线资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.饭太硬.net/tv/"
     }
+  ],
+  "lives": [],
+  "extends": [
+    "http://www.饭太硬.net/tv/"
   ]
 }
