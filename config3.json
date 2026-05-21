@@ -8,14 +8,14 @@
   
     "sites": [
         {
-            "key": "我的NAS",
-            "name": "NAS影库",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://192.168.31.110:5005/video/"
+          "key": "myNAS",
+          "name": "📁 NAS仓",
+          "type": 3,
+          "api": "csp_WebDAV",
+          "searchable": 0,
+          "quickSearch": 0,
+          "filterable": 0,
+          "ext": "http://play:WatchTV1@192.168.31.110:5005/video/"
         },
         {
             "key": "点我切源",
