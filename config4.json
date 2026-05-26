@@ -4,7 +4,7 @@
       "key": "nas_webdav",
       "name": "🏠 MyNAS",
       "type": 1,
-      "api": "http://192.168.31.110:5000/video/api/my_lib.json",
+      "api": "http://play:WatchTV1@192.168.31.110:5000/video/api/my_lib.json",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
