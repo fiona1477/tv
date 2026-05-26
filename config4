@@ -1,0 +1,23 @@
+{
+  "sites": [
+    {
+      "key": "nas_webdav",
+      "name": "🏠 MyNAS",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://play:WatchTV1@192.168.1.100:5005/videos/"
+    },
+    {
+      "key": "fan_tai_ying",
+      "name": "🍚 饭太硬 (云端)",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://www.饭太硬.net/tv/"
+    }
+  ]
+}
