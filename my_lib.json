@@ -11,7 +11,7 @@
   ],
   "list": [
     {
-      "vod_id": 1,
+      "vod_id": "1",
       "vod_name": "啊！设计",
       "vod_pic": "http://192.168.31.110/img/design-ah.jpg",  
       "vod_year": "2011",
