@@ -1,0 +1,37 @@
+{
+  "code": 1,
+  "msg": "数据加载成功",
+  "page": 1,
+  "pagecount": 1,
+  "limit": "10",
+  "total": 5,
+  "class": [
+    {"type_id": 1, "type_name": "纪录片"},
+    {"type_id": 2, "type_name": "电影"}
+  ],
+  "list": [
+    {
+      "vod_id": "nas_movie_01",
+      "vod_name": "啊！设计",
+      "vod_pic": "https://nenya.doubanio.com/view/photo/xl/public/p2509012048.jpg?sa_cv=845bf4f4ead24e1a2a8b53bce75e4f1c&sa_ct=6a150f9c",
+      "vod_remarks": "台湾公视版国语配音共20集",
+      "type_id": 1,
+      "vod_play_from": "NAS仓",
+      "vod_play_url": "第01集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第1集.mp4#第02集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第2集.mp4#第03集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第3集.mp4#第04集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第4集.mp4#第05集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第5集.mp4#第06集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第6集.mp4#第07集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第7集.mp4#第08集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第8集.mp4#第09集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第9集.mp4#第10集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第10集.mp4#第11集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第11集.mp4#第12集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第12集.mp4#第13集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第13集.mp4#第14集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第14集.mp4#第15集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第15集.mp4#第16集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第16集.mp4#第17集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第17集.mp4#第18集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第18集.mp4#第19集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第19集.mp4#第20集$http://play:WatchTV1@192.168.31.110:5000/video/啊！设计/公視啊設計第20集.mp4"
+    },
+
+    {
+      "vod_id": "nas_tv_01",
+      "vod_name": "数字积木第1季-中文配音",
+      "vod_pic": "https://nenya.doubanio.com/view/photo/xl/public/p2615724438.jpg?sa_cv=db22d8c977477d923e6fc99b9fabe71b&sa_ct=6a15126b",
+      "vod_remarks": "共24集",
+      "type_id": 1,
+      "vod_play_from": "MyNAS",
+      "vod_play_url": "第01集 一$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第1集 一.mp4#第02集 又一个$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第2集 又一个.mp4#第03集 二$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第3集 二.mp4#第04集 三$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第4集 三.mp4#第05集 一二三$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第5集 一二三.mp4#第06集 四$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第6集 四.mp4#第07集 五$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第7集 五.mp4#第08集 三只小猪$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第8集 三只小猪.mp4#第09集 出发吧$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第9集 出发吧.mp4#第10集 如何数数$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第10集 如何数数.mp4#第11集 弹跳乐园$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第11集 弹跳乐园.mp4#第12集 完整的我$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第12集 完整的我.mp4#第13集 可怕的双胞胎$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第13集 可怕的双胞胎.mp4#第14集 洞$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第14集 洞.mp4#第15集 捉迷藏$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第15集 捉迷藏.mp4#第16集 从前$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第16集 从前.mp4#第17集 方块怪兽$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第17集 方块怪兽.mp4#第18集 数字积木快车$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第18集 数字积木快车.mp4#第19集 水果沙拉$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第19集 水果沙拉.mp4#第20集 零$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第20集 零.mp4#第21集$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第21集 1和2之歌.mp4#第22集 3和4之歌$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第22集 3和4之歌.mp4#第23集 5和她的朋友们$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第23集 5和她的朋友们.mp4#第24集 一起玩$http://play:WatchTV1@192.168.31.110:5000/video/数字积木/第一季中文配音24集/第24集 一起玩.mp4"
+    }
+  ]
+}
+
+
+
+
