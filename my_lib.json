@@ -52,35 +52,20 @@
       "vod_play_from": "mynas",
       "vod_play_url": "第01集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP01_1080p.flv#第02集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP02_720p.flv#第03集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP03_720p.flv#第04集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP04_720p.flv#第05集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP05_720p.flv#第06集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP06_720p.flv#第07集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP07_720p.flv#第08集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP08_720p.flv#第09集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP09_720p.flv#第10集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP10_720p.flv#第11集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP11_720p.flv#第12集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP12_720p.flv#第13集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP13_720p.flv#第14集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP14_720p.flv#第15集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP15_720p.flv#第16集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP16_720p.flv#第17集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP17_720p.flv#第18集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP18_720p.flv#第19集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP19_720p.flv#第20集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP20_720p.flv"
     },
-    //试试只放一集
+    //mp4格式，试试非flv格式放web文件夹，只放一集，路径全英文
     {
       "vod_id": "4",
-      "vod_name": "像乌鸦一样思考",
-      "vod_pic": "http://192.168.31.110/img/thinklikeacrow.jpg",
-      "vod_year": "2013",
-      "vod_area": "日本 / 儿童",
-      "vod_director": "佐藤雅彦",
-      "vod_actor": "苍井优，斋藤工",
-      "vod_content": "片名取自于伊索寓言中的乌鸦巧妙地利用鹅卵石喝到罐子底部的水的故事，本系列旨在教导孩子科学方法的四个步骤：观察、假设、实验和评估。幽默的片段展示了科学方法的前三个步骤，而第四个步骤评估，则留给观众自己思考。例如，两支点燃的长短不一的蜡烛放在一个倒置的花瓶中，哪一支将先熄灭？我们看到了结果，但故事最后仅仅提示了氧气和二氧化碳的相对重量",
-      "vod_remarks": "共20集",
+      "vod_name": "数字积木S1(中配)",
+      "vod_pic": "http://192.168.31.110/img/s1numberblocks.jpg",
+      "vod_year": "2017",
+      "vod_area": "英国 / 儿童",
+      "vod_director": "Simon Taylor",
+      "vod_actor": "Beth Chalmers, Marcel McCalla, Teresa Gallagher, David Holt, Emma Tate",
+      "vod_content": "BBC优秀动画！五个头上带有数字的小盒子，通过一系列生动的故事，给孩子们感性、形象的数学认知",
+      "vod_remarks": "共24集",
       "type_id": "1",
       "vod_play_from": "mynas",
-      "vod_play_url": "第01集$http://play:WatchTV1@192.168.31.110:5005/video/think_like_a_crow/think_like_a_crow_EP01_1080p.flv"
-    },
-    //试试放在web文件夹
-    {
-      "vod_id": "5",
-      "vod_name": "像乌鸦一样思考",
-      "vod_pic": "http://192.168.31.110/img/thinklikeacrow.jpg",
-      "vod_year": "2013",
-      "vod_area": "日本 / 儿童",
-      "vod_director": "佐藤雅彦",
-      "vod_actor": "苍井优，斋藤工",
-      "vod_content": "片名取自于伊索寓言中的乌鸦巧妙地利用鹅卵石喝到罐子底部的水的故事，本系列旨在教导孩子科学方法的四个步骤：观察、假设、实验和评估。幽默的片段展示了科学方法的前三个步骤，而第四个步骤评估，则留给观众自己思考。例如，两支点燃的长短不一的蜡烛放在一个倒置的花瓶中，哪一支将先熄灭？我们看到了结果，但故事最后仅仅提示了氧气和二氧化碳的相对重量",
-      "vod_remarks": "共20集",
-      "type_id": "1",
-      "vod_play_from": "mynas",
-      "vod_play_url": "第01集$http://192.168.31.110/think_like_a_crow_EP01_1080p.flv"
+      "vod_play_url": "第01集 一$http://192.168.31.110/EP01-one.mp4"
     }
   ]
 }
