@@ -14,7 +14,7 @@
           "api": "http://192.168.31.110/my_lib.json",  
           "searchable": 1,
           "quickSearch": 1,
-          "filterable": 0,
+          "filterable": 0
           //"ext": "http://192.168.31.110/EP01-one.mp4"
         },
         {
