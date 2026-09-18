@@ -14,8 +14,7 @@
           "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/my_lib.json",  
           "searchable": 1,
           "quickSearch": 1,
-          "filterable": 0,
-          "detail": true
+          "filterable": 0
         },
         {
             "key": "点我切源",
