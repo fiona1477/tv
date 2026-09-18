@@ -10,7 +10,7 @@
         {
           "key": "myNAS",
           "name": "📁 NAS仓",
-          "type": 3,
+          "type": 1,
           "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/my_lib.json",  
           "searchable": 0,
           "quickSearch": 0,
