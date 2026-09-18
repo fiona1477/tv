@@ -15,7 +15,7 @@
           "searchable": 0,
           "quickSearch": 0,
           "filterable": 0,
-          "ext": "http://play:WatchTV1@192.168.31.110:5005/video/"
+          "ext": "http://192.168.31.110/EP01-one.mp4"
         },
         {
             "key": "点我切源",
