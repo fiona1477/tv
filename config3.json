@@ -11,7 +11,7 @@
           "key": "myNAS",
           "name": "📁 NAS仓",
           "type": 1,
-          "api": "http://192.168.31.110/my_lib.json",  
+          "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/my_lib.json",  
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0
