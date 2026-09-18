@@ -11,7 +11,7 @@
           "key": "myNAS",
           "name": "📁 NAS仓",
           "type": 3,
-          "api": "csp_WebDAV",
+          "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/my_lib.json",  
           "searchable": 0,
           "quickSearch": 0,
           "filterable": 0,
