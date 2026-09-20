@@ -17,6 +17,28 @@
           "filterable": 0
         },
         {
+          "key": "SMB-醒",
+          "name": "🎬 SMB直连",
+          "type": 3,
+          "api": "csp_Samba",
+          "jar": "/jar/fm.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "changeable": 1,
+          "ext": "./json/samba.json"
+        },
+        {
+         "key": "SMB-Gemini",
+         "name": "群晖SMB",
+         "type": 3,
+         "api": "csp_SMB",
+         "jar": "https://fs-im-kefu.76-90.com/20240411/jar/spider.jar",
+         "searchable": 0,
+         "quickSearch": 0,
+         "changeable": 0,
+         "ext": "smb://play:WatchTV1@192.168.31.110:5005/video/"
+        }
+        {
             "key": "点我切源",
             "name": "<9.10更新> 修复文采  海绵",
             "type": 3,
