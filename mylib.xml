@@ -21,7 +21,7 @@
       <director>Simon Taylor</director>
       <dl>
         <!-- flag 对应播放线路名称，里面的 CDATA 就是播放列表，多集用 # 隔开 -->
-        <dd flag="我的NAS本地"><![CDATA[第01集 一$http://192.168.31.110/EP01-one.mp4#第02集 又一个$http://play:WatchTV1@192.168.31.110:5005/video/数字积木/第一季中文配音24集/第2集 又一个.mp4]]></dd>
+        <dd flag="我的NAS本地"><![CDATA[第01集 一$http://192.168.31.110/EP01-one.mp4#第02集 crow$http://192.168.31.110/think_like_a_crow_EP01_1080p.flv]]></dd>
       </dl>
       <des><![CDATA[优秀动画]]></des>
     </video>
