@@ -18,7 +18,7 @@
         },
         {
           "key": "SMB-醒",
-          "name": "🎬 SMB直连",
+          "name": "🎬 SMB-醒",
           "type": 3,
           "api": "csp_Samba",
           "jar": "/jar/fm.jar",
@@ -29,7 +29,7 @@
         },
         {
          "key": "SMB-Gemini",
-         "name": "群晖SMB",
+         "name": "SMB-Gem",
          "type": 3,
          "api": "csp_SMB",
          "jar": "https://fs-im-kefu.76-90.com/20240411/jar/spider.jar",
@@ -37,6 +37,15 @@
          "quickSearch": 0,
          "changeable": 0,
          "ext": "smb://play:WatchTV1@192.168.31.110:5005/video/"
+        },
+        {
+         "key": "NAS-xml",
+         "name": "🎬 nas-xml",
+         "type": 0,
+         "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/mylib.xml", 
+         "searchable": 0,
+         "quickSearch": 0,
+         "changeable": 0
         },
         {
             "key": "点我切源",
