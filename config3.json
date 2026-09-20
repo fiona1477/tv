@@ -37,7 +37,7 @@
          "quickSearch": 0,
          "changeable": 0,
          "ext": "smb://play:WatchTV1@192.168.31.110:5005/video/"
-        }
+        },
         {
             "key": "点我切源",
             "name": "<9.10更新> 修复文采  海绵",
