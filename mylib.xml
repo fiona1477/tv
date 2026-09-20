@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="5.1">
+  <class>
+    <ty id="1">纪录片</ty>
+    <ty id="2">电影</ty>
+  </class>
+  <list>
+    <video>
+      <last>2024-05-01</last>
+      <id>1001</id>
+      <tid>1</tid>
+      <name><![CDATA[数字积木S1(中配)]]></name>
+      <type>纪录片</type>
+      <pic>http://192.168.31.110/img/s1numberblocks.jpg</pic>
+      <lang>中文</lang>
+      <area>英国 / 儿童</area>
+      <year>2017</year>
+      <state>完结</state>
+      <note>共24集</note>
+      <actor>Beth</actor>
+      <director>Simon Taylor</director>
+      <dl>
+        <!-- flag 对应播放线路名称，里面的 CDATA 就是播放列表，多集用 # 隔开 -->
+        <dd flag="我的NAS本地"><![CDATA[第01集 一$http://192.168.31.110/EP01-one.mp4]]></dd>
+      </dl>
+      <des><![CDATA[优秀动画]]></des>
+    </video>
+  </list>
+</rss>
