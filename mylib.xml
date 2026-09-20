@@ -4,7 +4,7 @@
     <ty id="1">纪录片</ty>
     <ty id="2">电影</ty>
   </class>
-  <list>
+  <list page="1" pagecount="1" pagesize="999" recordcount="999">
     <video>
       <last>2024-05-01</last>
       <id>1001</id>
