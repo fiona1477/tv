@@ -21,7 +21,7 @@
       <director>Simon Taylor</director>
       <dl>
         <!-- flag 对应播放线路名称，里面的 CDATA 就是播放列表，多集用 # 隔开 -->
-        <dd flag="我的NAS本地"><![CDATA[第01集 一$http://192.168.31.110/EP01-one.mp4#第02集 crow$http://192.168.31.110/think_like_a_crow_EP01_1080p.flv]]></dd>
+        <dd flag="我的NAS本地"><![CDATA[第01集 一$http://192.168.31.110/EP01-one.mp4#crow flv$http://192.168.31.110/think_like_a_crow_EP01_1080p.flv#Crow8800$http://192.168.31.110:8800/video/ThinkLikeAcrow/EP03_720p.flv#含中文路径$http://192.168.31.110:8800/video/numberblocks/第1季中文配音24集/第1集_一.mp4#中文路径+名空格$http://192.168.31.110:8800/video/numberblocks/第1季中文配音24集/第2集 又一个.mp4]]></dd>
       </dl>
       <des><![CDATA[优秀动画]]></des>
     </video>
