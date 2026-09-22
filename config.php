@@ -10,7 +10,7 @@ $opts = [
     "http" => [
         "method" => "GET",
         "header" => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\n",
-        "timeout" => 3 
+        "timeout" => 10 
     ]
 ];
 $context = stream_context_create($opts);
