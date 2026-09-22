@@ -38,7 +38,7 @@
       <tid>1</tid>    <!-- 对应上面的纪录片分类 -->
       <name><![CDATA[像乌鸦一样思考]]></name>
       <type>纪录片</type>
-      <pic>http://192.168.31.110:8800/video/ThinkLikeAcrow/thinklikeacrow.jpg</pic>
+      <pic>http://192.168.31.110:8800/ThinkLikeAcrow/thinklikeacrow.jpg</pic>
       <lang>日语</lang>
       <area>日本/儿童</area>
       <year>2013</year>
