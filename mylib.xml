@@ -38,7 +38,7 @@
       <tid>1</tid>    <!-- 对应上面的纪录片分类 -->
       <name><![CDATA[像乌鸦一样思考]]></name>
       <type>纪录片</type>
-      <pic>http://192.168.31.110:8800/ThinkLikeAcrow/thinklikeacrow.jpg</pic>
+      <pic>http://192.168.31.110/video/ThinkLikeAcrow/thinklikeacrow.jpg</pic>
       <lang>日语</lang>
       <area>日本/儿童</area>
       <year>2013</year>
@@ -46,9 +46,9 @@
       <note>共20集</note>
       <actor>苍井优，斋藤工</actor>
       <director>佐藤雅彦</director>
-      <des><![CDATA[片名取自于伊索寓言中的乌鸦巧妙地利用鹅卵石喝到罐子底部的水的故事，本系列旨在教导孩子科学方法的四个步骤：观察、假设、实验和评估。幽默的片段展示了科学方法的前三个步骤，而第四个步骤评估，则留给观众自己思考。例如，两支点燃的长短不一的蜡烛放在一个倒置的花瓶中，哪一支将先熄灭？我们看到了结果，但故事最后仅仅提示了氧气和二氧化碳的相对重量]]></des>
+      <des><![CDATA[简介：片名取自于伊索寓言中的乌鸦巧妙地利用鹅卵石喝到罐子底部的水的故事，本系列旨在教导孩子科学方法的四个步骤：观察、假设、实验和评估。幽默的片段展示了科学方法的前三个步骤，而第四个步骤评估，则留给观众自己思考。]]></des>
       <dl>
-        <dd flag="nas"><![CDATA[第20集$http://192.168.31.110:8800/ThinkLikeAcrow/EP20_720p.flv#第19集$http://192.168.31.110:8800/ThinkLikeAcrow/EP19_720p.flv#第18集$http://192.168.31.110:8800/ThinkLikeAcrow/EP18_720p.flv#第17集$http://192.168.31.110:8800/ThinkLikeAcrow/EP17_720p.flv#第16集$http://192.168.31.110:8800/ThinkLikeAcrow/EP16_720p.flv]]></dd>
+        <dd flag="nas盘"><![CDATA[第20集$http://192.168.31.110/video/ThinkLikeAcrow/EP20_720p.flv#第19集$http://192.168.31.110/video/ThinkLikeAcrow/EP19_720p.flv#第18集$http://192.168.31.110/video/ThinkLikeAcrow/EP18_720p.flv#第17集$http://192.168.31.110/video/ThinkLikeAcrow/EP17_720p.flv#第16集$http://192.168.31.110/video/ThinkLikeAcrow/EP16_720p.flv#第15集$http://192.168.31.110/video/ThinkLikeAcrow/EP15_720p.flv#第14集$http://192.168.31.110/video/ThinkLikeAcrow/EP14_720p.flv#第13集$http://192.168.31.110/video/ThinkLikeAcrow/EP13_720p.flv#第12集$http://192.168.31.110/video/ThinkLikeAcrow/EP12_720p.flv#第11集$http://192.168.31.110/video/ThinkLikeAcrow/EP11_720p.flv#第10集$http://192.168.31.110/video/ThinkLikeAcrow/EP10_720p.flv#第09集$http://192.168.31.110/video/ThinkLikeAcrow/EP09_720p.flv#第08集$http://192.168.31.110/video/ThinkLikeAcrow/EP08_720p.flv#第07集$http://192.168.31.110/video/ThinkLikeAcrow/EP07_720p.flv#第06集$http://192.168.31.110/video/ThinkLikeAcrow/EP06_720p.flv#第05集$http://192.168.31.110/video/ThinkLikeAcrow/EP05_720p.flv#第04集$http://192.168.31.110/video/ThinkLikeAcrow/EP04_720p.flv#第03集$http://192.168.31.110/video/ThinkLikeAcrow/EP03_720p.flv#第02集$http://192.168.31.110/video/ThinkLikeAcrow/EP02_720p.flv#第01集$http://192.168.31.110/video/ThinkLikeAcrow/EP01_1080p.flv]]></dd>
       </dl>
     </video>   
   </list>
