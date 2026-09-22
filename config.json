@@ -1,7 +1,10 @@
 //      >>> 当前时间是：2026-09-22 <<<
-//     当前接口：https://github.com/qist/tvbox/blob/master/fty.json，spider要不要换这个呢？https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea
+//     当前接口：https://github.com/qist/tvbox/blob/master/fty.json，
+//     spider要不要换这个呢？https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea
+//     spider这个会找不到jar文件：./jar/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea
+
 {
-  "spider": "./jar/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
+  "spider": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {"key": "myNAS","name": "📁本地nas","type": 0,"api": "http://192.168.31.110/api/mylib-api.php",  "searchable": 0,"quickSearch": 0,"changeable": 0},
