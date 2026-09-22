@@ -9,7 +9,7 @@
   <!-- 第二部分：影片列表。这里的 pagecount="1" 已经加上，完美防止海报墙无限刷新报错 -->
   <list page="1" pagecount="1" pagesize="999" recordcount="999">
 
-    <!-- 第 2 部：纪录片（示范集数较多的常规动画） -->
+    <!-- 第 1 部：纪录片（示范集数较多的常规动画） -->
     <video>
       <last>2026-09-21</last>    <!-- 最后更新日期 -->
       <id>1001</id>
@@ -28,13 +28,34 @@
       <dl>
         <dd flag="nas盘"><![CDATA[第20集$http://192.168.31.110/video/ThinkLikeAcrow/EP20_720p.flv#第19集$http://192.168.31.110/video/ThinkLikeAcrow/EP19_720p.flv#第18集$http://192.168.31.110/video/ThinkLikeAcrow/EP18_720p.flv#第17集$http://192.168.31.110/video/ThinkLikeAcrow/EP17_720p.flv#第16集$http://192.168.31.110/video/ThinkLikeAcrow/EP16_720p.flv#第15集$http://192.168.31.110/video/ThinkLikeAcrow/EP15_720p.flv#第14集$http://192.168.31.110/video/ThinkLikeAcrow/EP14_720p.flv#第13集$http://192.168.31.110/video/ThinkLikeAcrow/EP13_720p.flv#第12集$http://192.168.31.110/video/ThinkLikeAcrow/EP12_720p.flv#第11集$http://192.168.31.110/video/ThinkLikeAcrow/EP11_720p.flv#第10集$http://192.168.31.110/video/ThinkLikeAcrow/EP10_720p.flv#第09集$http://192.168.31.110/video/ThinkLikeAcrow/EP09_720p.flv#第08集$http://192.168.31.110/video/ThinkLikeAcrow/EP08_720p.flv#第07集$http://192.168.31.110/video/ThinkLikeAcrow/EP07_720p.flv#第06集$http://192.168.31.110/video/ThinkLikeAcrow/EP06_720p.flv#第05集$http://192.168.31.110/video/ThinkLikeAcrow/EP05_720p.flv#第04集$http://192.168.31.110/video/ThinkLikeAcrow/EP04_720p.flv#第03集$http://192.168.31.110/video/ThinkLikeAcrow/EP03_720p.flv#第02集$http://192.168.31.110/video/ThinkLikeAcrow/EP02_720p.flv#第01集$http://192.168.31.110/video/ThinkLikeAcrow/EP01_1080p.flv]]></dd>
       </dl>
-    </video>  
+    </video> 
+
+    <!-- 第 2 部：纪录片（示范集数较多的常规动画） -->
+    <video>
+      <last>2026-09-21</last>    <!-- 最后更新日期 -->
+      <id>1002</id>
+      <tid>1</tid>    <!-- 对应上面的纪录片分类 -->
+      <name><![CDATA[啊！设计]]></name>
+      <type>纪录片</type>
+      <pic>http://192.168.31.110/video/design-ah-tw/design-ah.jpg</pic>
+      <lang>台配版</lang>
+      <area>日本/台湾/儿童</area>
+      <year>2011</year>
+      <state>完结</state>
+      <note>共20集</note>
+      <actor>佐藤卓/旁白</actor>
+      <director>中村勇吾</director>
+      <des><![CDATA[简介：日本NHK出品！这是一档非常经典的儿童设计启蒙节目。通过观察日常生活中常见的物品，启发孩子们从设计的角度去思考问题，超级适合陪孩子一起看！]]></des>
+      <dl>
+        <dd flag="nas盘"><![CDATA[第20集$http://192.168.31.110/video/design-ah-tw/EP20.mp4#第19集$http://192.168.31.110/video/design-ah-tw/EP19.mp4#第18集$http://192.168.31.110/video/design-ah-tw/EP18.mp4#第17集$http://192.168.31.110/video/design-ah-tw/EP17.mp4#第16集$http://192.168.31.110/video/design-ah-tw/EP16.mp4#第15集$http://192.168.31.110/video/design-ah-tw/EP15.mp4#第14集$http://192.168.31.110/video/design-ah-tw/EP14.mp4#第13集$http://192.168.31.110/video/design-ah-tw/EP13.mp4#第12集$http://192.168.31.110/video/design-ah-tw/EP12.mp4#第11集$http://192.168.31.110/video/design-ah-tw/EP11.mp4#第10集$http://192.168.31.110/video/design-ah-tw/EP10.mp4#第09集$http://192.168.31.110/video/design-ah-tw/EP09.mp4#第08集$http://192.168.31.110/video/design-ah-tw/EP08.mp4#第07集$http://192.168.31.110/video/design-ah-tw/EP07.mp4#第06集$http://192.168.31.110/video/design-ah-tw/EP06.mp4#第05集$http://192.168.31.110/video/design-ah-tw/EP05.mp4#第04集$http://192.168.31.110/video/design-ah-tw/EP04.mp4#第03集$http://192.168.31.110/video/design-ah-tw/EP03.mp4#第02集$http://192.168.31.110/video/design-ah-tw/EP02.mp4#第01集$http://192.168.31.110/video/design-ah-tw/EP01.mp4]]></dd>
+      </dl>
+    </video> 
     
     <!-- 第 1 部：动画片（示范单季多集） -->
     <video>
       <last>2024-05-01</last>
-      <id>1002</id>
-      <tid>1</tid> <!-- 对应上面的动画片分类 -->
+      <id>2001</id>
+      <tid>2</tid> <!-- 对应上面的动画片分类 -->
       <name><![CDATA[数字积木S1(中配)]]></name>
       <type>纪录片</type>
       <pic>http://192.168.31.110/img/s1numberblocks.jpg</pic>
