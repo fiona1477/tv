@@ -63,31 +63,33 @@ if ($ac == 'detail' && !empty($ids)) {
 }
 
 // 5. 拼接输出标准的 XML 结构
-echo '  <?xml version="1.0" encoding="UTF-8"?>' . "\n";
-echo '  <rss version="5.0">' . "\n";
-echo '    <class>' . "\n";
-echo '      <ty id="1">我的分类</ty>' . "\n"; 
-echo '    </class>' . "\n";
+echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
+echo '<rss version="5.0">' . "\n";
+echo '  <class>' . "\n";
+// 这里定义分类列表，供 TVBox 顶部导航栏筛选使用
+echo '    <ty id="1">纪录片</ty>' . "\n"; 
+echo '    <ty id="2">动画</ty>' . "\n"; 
+echo '  </class>' . "\n";
 echo '  <list page="1" pagecount="1" pagesize="'.count($result_videos).'" recordcount="'.count($result_videos).'">' . "\n";
 
 foreach ($result_videos as $v) {
     echo '    <video>' . "\n";
     echo '      <last>' . date('Y-m-d H:i:s') . '</last>' . "\n";
     echo '      <id>' . $v['id'] . '</id>' . "\n";
-    echo '      <tid>1</tid>' . "\n"; // 分类ID，要与上方 class 内的 ID 一致
+    // 以下信息全部改为从数组中动态获取
+    echo '      <tid>' . $v['tid'] . '</tid>' . "\n"; 
     echo '      <name><![CDATA[' . $v['name'] . ']]></name>' . "\n";
-    echo '      <type>我的分类</type>' . "\n";
+    echo '      <type>' . $v['type'] . '</type>' . "\n";
     echo '      <pic><![CDATA[' . $v['pic'] . ']]></pic>' . "\n";
-    echo '      <lang>国语</lang>' . "\n";
-    echo '      <area>大陆</area>' . "\n";
-    echo '      <year>2024</year>' . "\n";
-    echo '      <state></state>' . "\n";
-    echo '      <note></note>' . "\n";
+    echo '      <lang><![CDATA[' . $v['lang'] . ']]></lang>' . "\n";
+    echo '      <area><![CDATA[' . $v['area'] . ']]></area>' . "\n";
+    echo '      <year>' . $v['year'] . '</year>' . "\n";
+    echo '      <state><![CDATA[' . $v['state'] . ']]></state>' . "\n";
+    echo '      <note><![CDATA[' . $v['note'] . ']]></note>' . "\n";
     echo '      <actor><![CDATA[' . $v['actor'] . ']]></actor>' . "\n";
     echo '      <director><![CDATA[' . $v['director'] . ']]></director>' . "\n";
     echo '      <des><![CDATA[' . $v['des'] . ']]></des>' . "\n";
     echo '      <dl>' . "\n";
-    // flag 表示播放器的标识，常用 m3u8、mp4 或者你的专属播放器名
     echo '        <dd flag="kflocal"><![CDATA[' . $v['play_url'] . ']]></dd>' . "\n";
     echo '      </dl>' . "\n";
     echo '    </video>' . "\n";
