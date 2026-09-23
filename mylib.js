@@ -5,19 +5,19 @@
 var localData = [
     {
         // === 基础核心信息 ===
-        "vod_id": "1",                  // 视频唯一ID（确保每个视频的ID不重复）
-        "type_id": "1",                 // 对应底部分类中的ID，1代表“纪录片”，2代表“动画片”，3代表“电影”
+        "vod_id": "1",                    // 视频唯一ID（确保每个视频的ID不重复）
+        "type_id": "1",                   // 对应底部分类中的ID，1代表“纪录片”，2代表“动画片”，3代表“电影”
         "type_name": "纪录片",            // 分类名称
-        "vod_name": "像乌云一样思考",    // 视频名称
+        "vod_name": "像乌鸦一样思考",     // 视频名称
         "vod_pic": "http://192.168.31.110/video/ThinkLikeAcrow/thinklikeacrow.jpg", // 封面图片
         "vod_remarks": "共20集",      // 右下角/右上角的角标（通常写清晰度或集数）
 
         // === 补充的详情元数据（导演/演员/地区等） ===
-        "vod_director": "佐藤雅彦", // 导演
-        "vod_actor": "苍井优，斋藤工", // 演员（多个演员用逗号或空格隔开）
-        "vod_year": "2013",             // 上映年份
-        "vod_area": "日本/儿童",             // 地区
-        "vod_lang": "日语",             // 语言
+        "vod_director": "佐藤雅彦",       // 导演
+        "vod_actor": "苍井优，斋藤工",    // 演员（多个演员用逗号或空格隔开）
+        "vod_year": "2013",            // 上映年份
+        "vod_area": "日本/儿童",        // 地区
+        "vod_lang": "日语",            // 语言
         "vod_content": "片名取自于伊索寓言中的乌鸦巧妙地利用鹅卵石喝到罐子底部的水的故事，本系列旨在教导孩子科学方法的四个步骤：观察、假设、实验和评估。幽默的片段展示了科学方法的前三个步骤，而第四个步骤评估，则留给观众自己思考。例如，两支点燃的长短不一的蜡烛放在一个倒置的花瓶中，哪一支将先熄灭？我们看到了结果，但故事最后仅仅提示了氧气和二氧化碳的相对重量", // 剧情简介
 
         // === 播放线路信息 ===
@@ -51,17 +51,17 @@ var localData = [
         "vod_id": "3",
         "type_id": "2",                 // 对应底部分类中的ID，1代表“纪录片”，2代表“动画片”，3代表“电影”
         "type_name": "动画片",
-        "vod_name": "数字积木 第1季",
+        "vod_name": "数字积木1～5季",
         "vod_pic": "http://192.168.31.110/video/numberblocks/s1numberblocks.jpg",
-        "vod_remarks": "全集完结",
+        "vod_remarks": "120集",
 
         // === 补充的详情元数据 ===
         "vod_director": "Simon Taylor",
         "vod_actor": "Beth Chalmers, Marcel McCalla, Teresa Gallagher, David Holt, Emma Tate",
         "vod_year": "2017",
         "vod_area": "英国/儿童",
-        "vod_lang": "英语",
-        "vod_content": "BBC优秀动画！五个头上带有数字的小盒子，通过一系列生动的故事，给孩子们感性、形象的数学认知",
+        "vod_lang": "国语/英语",
+        "vod_content": "BBC优秀动画！五个头上带有数字的小盒子，通过一系列生动的故事，给孩子们感性、形象的数学认知。中文只有第1季共24集，英文有1～5季共120集",
 
         // === 播放线路信息 ===
         "vod_play_from": "Local",
