@@ -82,7 +82,10 @@ function home(filter) {
             {"type_id": "2", "type_name": "动画片"},
             {"type_id": "3", "type_name": "电影"}
         ],
-        filters: {}
+        filters: {},
+        // 将所有 NAS 数据作为首页推荐列表直接展示！
+        // 如果你的片子几百上千部，可以用 localData.slice(0, 20) 只显示前20部最新更新的
+        list: localData
     });
 }
 
