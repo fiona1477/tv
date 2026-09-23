@@ -31,7 +31,7 @@
          "key": "nas-js",
          "name": "nas-js",
          "type": 3,
-         "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/nas.js",
+         "api": "https://raw.githubusercontent.com/fiona1477/tv/refs/heads/main/mylib.js",
          "searchable": 0,
          "quickSearch": 0,
          "changeable": 0
