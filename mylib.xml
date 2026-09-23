@@ -12,7 +12,7 @@
     <!-- 不写两部了，直接在flag那里放不同的剧集 -->
     <video>
       <last>2026-09-23</last>
-      <id>1004</id>
+      <id>1001</id>
       <tid>1</tid>
       <name><![CDATA[乌鸦+设计+积木]]</name>
       <type>纪录片</type>
@@ -26,14 +26,14 @@
       <director>未知</director>
       <des><![CDATA[解决不了海报墙点击后动态加载数据的问题，全部写在一起]]></des>
       <dl>
-        <dd flag="像乌鸦一样思考"><![CDATA[第20集$http://192.168.31.110/video/ThinkLikeAcrow/EP20_720p.flv#第19集$http://192.168.31.110/video/ThinkLikeAcrow/EP19_720p.flv#第18集$http://192.168.31.110/video/ThinkLikeAcrow/EP18_720p.flv#第17集$http://192.168.31.110/video/ThinkLikeAcrow/EP17_720p.flv#第16集$http://192.168.31.110/video/ThinkLikeAcrow/EP16_720p.flv#第15集$http://192.168.31.110/video/ThinkLikeAcrow/EP15_720p.flv#第14集$http://192.168.31.110/video/ThinkLikeAcrow/EP14_720p.flv#第13集$http://192.168.31.110/video/ThinkLikeAcrow/EP13_720p.flv#第12集$http://192.168.31.110/video/ThinkLikeAcrow/EP12_720p.flv#第11集$http://192.168.31.110/video/ThinkLikeAcrow/EP11_720p.flv#第10集$http://192.168.31.110/video/ThinkLikeAcrow/EP10_720p.flv#第09集$http://192.168.31.110/video/ThinkLikeAcrow/EP09_720p.flv#第08集$http://192.168.31.110/video/ThinkLikeAcrow/EP08_720p.flv#第07集$http://192.168.31.110/video/ThinkLikeAcrow/EP07_720p.flv#第06集$http://192.168.31.110/video/ThinkLikeAcrow/EP06_720p.flv#第05集$http://192.168.31.110/video/ThinkLikeAcrow/EP05_720p.flv#第04集$http://192.168.31.110/video/ThinkLikeAcrow/EP04_720p.flv#第03集$http://192.168.31.110/video/ThinkLikeAcrow/EP03_720p.flv#第02集$http://192.168.31.110/video/ThinkLikeAcrow/EP02_720p.flv#第01集$http://192.168.31.110/video/ThinkLikeAcrow/EP01_1080p.flv#第20集$http://192.168.31.110/video/design-ah-tw/EP20.mp4#第19集$http://192.168.31.110/video/design-ah-tw/EP19.mp4#第18集$http://192.168.31.110/video/design-ah-tw/EP18.mp4#第17集$http://192.168.31.110/video/design-ah-tw/EP17.mp4#第16集$http://192.168.31.110/video/design-ah-tw/EP16.mp4#第15集$http://192.168.31.110/video/design-ah-tw/EP15.mp4#第14集$http://192.168.31.110/video/design-ah-tw/EP14.mp4#第13集$http://192.168.31.110/video/design-ah-tw/EP13.mp4#第12集$http://192.168.31.110/video/design-ah-tw/EP12.mp4#第11集$http://192.168.31.110/video/design-ah-tw/EP11.mp4#第10集$http://192.168.31.110/video/design-ah-tw/EP10.mp4#第09集$http://192.168.31.110/video/design-ah-tw/EP09.mp4#第08集$http://192.168.31.110/video/design-ah-tw/EP08.mp4#第07集$http://192.168.31.110/video/design-ah-tw/EP07.mp4#第06集$http://192.168.31.110/video/design-ah-tw/EP06.mp4#第05集$http://192.168.31.110/video/design-ah-tw/EP05.mp4#第04集$http://192.168.31.110/video/design-ah-tw/EP04.mp4#第03集$http://192.168.31.110/video/design-ah-tw/EP03.mp4#第02集$http://192.168.31.110/video/design-ah-tw/EP02.mp4#第01集$http://192.168.31.110/video/design-ah-tw/EP01.mp4]]></dd>
+        <dd flag="crowdesign"><![CDATA[第20集$http://192.168.31.110/video/ThinkLikeAcrow/EP20_720p.flv#第19集$http://192.168.31.110/video/ThinkLikeAcrow/EP19_720p.flv#第18集$http://192.168.31.110/video/ThinkLikeAcrow/EP18_720p.flv#第17集$http://192.168.31.110/video/ThinkLikeAcrow/EP17_720p.flv#第16集$http://192.168.31.110/video/ThinkLikeAcrow/EP16_720p.flv#第15集$http://192.168.31.110/video/ThinkLikeAcrow/EP15_720p.flv#第14集$http://192.168.31.110/video/ThinkLikeAcrow/EP14_720p.flv#第13集$http://192.168.31.110/video/ThinkLikeAcrow/EP13_720p.flv#第12集$http://192.168.31.110/video/ThinkLikeAcrow/EP12_720p.flv#第11集$http://192.168.31.110/video/ThinkLikeAcrow/EP11_720p.flv#第10集$http://192.168.31.110/video/ThinkLikeAcrow/EP10_720p.flv#第09集$http://192.168.31.110/video/ThinkLikeAcrow/EP09_720p.flv#第08集$http://192.168.31.110/video/ThinkLikeAcrow/EP08_720p.flv#第07集$http://192.168.31.110/video/ThinkLikeAcrow/EP07_720p.flv#第06集$http://192.168.31.110/video/ThinkLikeAcrow/EP06_720p.flv#第05集$http://192.168.31.110/video/ThinkLikeAcrow/EP05_720p.flv#第04集$http://192.168.31.110/video/ThinkLikeAcrow/EP04_720p.flv#第03集$http://192.168.31.110/video/ThinkLikeAcrow/EP03_720p.flv#第02集$http://192.168.31.110/video/ThinkLikeAcrow/EP02_720p.flv#第01集$http://192.168.31.110/video/ThinkLikeAcrow/EP01_1080p.flv#第20集$http://192.168.31.110/video/design-ah-tw/EP20.mp4#第19集$http://192.168.31.110/video/design-ah-tw/EP19.mp4#第18集$http://192.168.31.110/video/design-ah-tw/EP18.mp4#第17集$http://192.168.31.110/video/design-ah-tw/EP17.mp4#第16集$http://192.168.31.110/video/design-ah-tw/EP16.mp4#第15集$http://192.168.31.110/video/design-ah-tw/EP15.mp4#第14集$http://192.168.31.110/video/design-ah-tw/EP14.mp4#第13集$http://192.168.31.110/video/design-ah-tw/EP13.mp4#第12集$http://192.168.31.110/video/design-ah-tw/EP12.mp4#第11集$http://192.168.31.110/video/design-ah-tw/EP11.mp4#第10集$http://192.168.31.110/video/design-ah-tw/EP10.mp4#第09集$http://192.168.31.110/video/design-ah-tw/EP09.mp4#第08集$http://192.168.31.110/video/design-ah-tw/EP08.mp4#第07集$http://192.168.31.110/video/design-ah-tw/EP07.mp4#第06集$http://192.168.31.110/video/design-ah-tw/EP06.mp4#第05集$http://192.168.31.110/video/design-ah-tw/EP05.mp4#第04集$http://192.168.31.110/video/design-ah-tw/EP04.mp4#第03集$http://192.168.31.110/video/design-ah-tw/EP03.mp4#第02集$http://192.168.31.110/video/design-ah-tw/EP02.mp4#第01集$http://192.168.31.110/video/design-ah-tw/EP01.mp4]]></dd>
       </dl>
     </video> 
 
     <!-- 第 1 部：纪录片（示范集数较多的常规动画） -->
     <video>
       <last>2026-09-21</last>    <!-- 最后更新日期 -->
-      <id>1001</id>
+      <id>1002</id>
       <tid>1</tid>    <!-- 对应上面的纪录片分类 -->
       <name><![CDATA[像乌鸦一样思考]]></name>
       <type>纪录片</type>
@@ -54,7 +54,7 @@
     <!-- 第 2 部：纪录片（示范集数较多的常规动画） -->
     <video>
       <last>2026-09-21</last>    <!-- 最后更新日期 -->
-      <id>1002</id>
+      <id>1003</id>
       <tid>1</tid>    <!-- 对应上面的纪录片分类 -->
       <name><![CDATA[啊！设计]]></name>
       <type>纪录片</type>
