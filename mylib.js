@@ -32,7 +32,7 @@ var localData = [
         "type_name": "纪录片",
         "vod_name": "‎啊！设计",
         "vod_pic": "http://192.168.31.110/video/design-ah-tw/design-ah.jpg",
-        "vod_remarks": "共20集",
+        "vod_remarks": "60+20集",
 
         // === 补充的详情元数据 ===
         "vod_director": "中村勇吾",
