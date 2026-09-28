@@ -51,9 +51,9 @@ var localData = [
         "vod_id": "3",
         "type_id": "2",                 // 对应底部分类中的ID，1代表“纪录片”，2代表“动画片”，3代表“电影”
         "type_name": "动画片",
-        "vod_name": "数字积木1～9季",
+        "vod_name": "数字积木1～8季",
         "vod_pic": "http://192.168.31.110/video/numberblocks/s1numberblocks.jpg",
-        "vod_remarks": "120集",
+        "vod_remarks": "193集",
 
         // === 补充的详情元数据 ===
         "vod_director": "Simon Taylor",
