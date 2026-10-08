@@ -84,7 +84,7 @@ var localData = [
 
         // === 播放线路信息 ===
         "vod_play_from": "Local",
-        "vod_play_url":""
+        "vod_play_url":"第6集《沙丘》$http://192.168.31.110/video/tinyworld/zh/S2/S2E6.mp4#第5集《珊瑚礁》$http://192.168.31.110/video/tinyworld/zh/S2/S2E5.mp4#第4集《雨林》$http://192.168.31.110/video/tinyworld/zh/S2/S2E4.mp4#第3集《池塘》$http://192.168.31.110/video/tinyworld/zh/S2/S2E3.mp4#第2集《沙漠》$http://192.168.31.110/video/tinyworld/zh/S2/S2E2.mp4#第1集《草场》$http://192.168.31.110/video/tinyworld/zh/S2/S2E1.mp4#第六集《花园》$http://192.168.31.110/video/tinyworld/zh/S1/S1E6.mp4#第五集《森林地带》$http://192.168.31.110/video/tinyworld/zh/S1/S1E5.mp4#第四集《澳洲内陆》$http://192.168.31.110/video/tinyworld/zh/S1/S1E4.mp4#第三集《加勒比海岛》$http://192.168.31.110/video/tinyworld/zh/S1/S1E3.mp4#第二集《热带雨林》$http://192.168.31.110/video/tinyworld/zh/S1/S1E2.mp4#第一集《非洲大草原》$http://192.168.31.110/video/tinyworld/zh/S1/S1E1.mp4"
     }
 ];
 
