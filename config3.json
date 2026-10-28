@@ -3,7 +3,7 @@
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
 //    "spider": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a", ---->>10月28日测试这个管用，就是加载时间久
-    "spider": "https://fastly.jsdelivr.net/gh/qist/tvbox/refs/heads/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
+    "spider": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
