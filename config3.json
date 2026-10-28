@@ -1,10 +1,9 @@
-//      >>> 之前时间：2026-05-21 16:41:17 的大佬接口已删<<<  
-//      >>> 当前时间是：2026-09-18 14:14:37 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
+//      >>> 当前时间是：2026-10-28 15:25 <<<
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://file.icve.com.cn/file_doc/874/405/DAB654F794A271C3D7A33D18ACFBFA95.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
+//  "spider": "https://file.icve.com.cn/file_doc/874/405/DAB654F794A271C3D7A33D18ACFBFA95.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
+    "spider": "https://github.com/qist/tvbox/tree/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
