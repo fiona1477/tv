@@ -1,5 +1,6 @@
 {
-  "spider": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jar/spider.jar;md5;c1978e5cec469f66f07efd37d39ec26a",
+  //"spider": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jar/spider.jar;md5;c1978e5cec469f66f07efd37d39ec26a",
+  "spider": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar;md5;c1978e5cec469f66f07efd37d39ec26a",
   "lives": [
     {"name": "live","boot": false,"type": 0,"url": "./tv.txt","playerType": 2,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
   ],
