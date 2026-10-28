@@ -2,8 +2,8 @@
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-//  "spider": "https://file.icve.com.cn/file_doc/874/405/DAB654F794A271C3D7A33D18ACFBFA95.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
-    "spider": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
+//    "spider": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a", ---->>10月28日测试这个管用，就是加载时间久
+    "spider": "https://fastly.jsdelivr.net/gh/qist/tvbox/refs/heads/master/jar/fan.txt;md5;b55978c4fe6d12e2fea9075f17c8a67a",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -45,7 +45,7 @@
          "changeable": 0
         },
         {
-            "key": "点我切源",
+            "key": "点我切源1028",
             "name": "<9.10更新> 修复文采  海绵",
             "type": 3,
             "api": "csp_DouDouGuard",
