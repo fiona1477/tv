@@ -45,8 +45,8 @@
          "changeable": 0
         },
         {
-            "key": "点我切源1028",
-            "name": "<9.10更新> 修复文采  海绵",
+            "key": "点我切源",
+            "name": "1028更新",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
